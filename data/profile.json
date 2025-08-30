@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://github.com/ricardoorrico/projetofinal/blob/main/data/imgs/js.png?raw=true"
       },
       {
         "name": "Java",
@@ -17,19 +17,19 @@
       },
       {
         "name": "Kotlin",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://github.com/ricardoorrico/projetofinal/blob/main/data/imgs/kotlin.png?raw=true"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://github.com/ricardoorrico/projetofinal/blob/main/data/imgs/python.png?raw=true"
       },
       {
         "name": "Mysql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://github.com/ricardoorrico/projetofinal/blob/main/data/imgs/mysql.png?raw=true"
       },
       {
-        "name": "Android",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Git",
+        "logo": "https://github.com/ricardoorrico/projetofinal/blob/main/data/imgs/git.png?raw=true"
       }
     ],
     "softSkills": [
