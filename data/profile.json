@@ -1,0 +1,76 @@
+{
+  "name": "Ricardo A. Orrico",
+  "photo": "",
+  "job": "Instrutor de TI Senai Anchieta",
+  "location": "São Paulo - SP",
+  "phone": "(xx) xxxxx-xxxx",
+  "email": "ricardoorrico@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Kotlin",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mysql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "Android",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Meu yuyu",
+      "url": "https://meuyuyu.vercel.app/",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Instrutor de TI / SENAI Anchieta",
+      "period": "2022 - até o momento",
+      "description": "Amo lecionar para a galera interessada."
+    },
+    {
+      "name": "Analista de TI / Volks do Brasil",
+      "period": "01/2022 - 04/2022",
+      "description": "Grande aprendizado na mega empresa de carros."
+    },
+    {
+      "name": "Instrutor|Técnico de TI / Cebrac Mauá",
+      "period": "2015 - 2020",
+      "description": "Aqui, foi onde comecei meu hoje."
+    },
+    {
+      "name": "Especialista em TI / Autônomo",
+      "period": "1999 - Atual",
+      "description": "Aprendendo sempre para ser melhor a cada dia."
+    }
+  ]
+}
